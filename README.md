@@ -21,3 +21,30 @@ Machine Learning Practice. Implimenting the project following the Chapter-2 proj
 **Possible Performance Measure:** Root Mean Square Error (RMSE), and Mean Absolute Error (MAE). <br>
 **Data:** [DC Residential Properties | Kaggle](https://www.kaggle.com/christophercorrea/dc-residential-properties)<br>
 **Project Author:** Maksim Ekin Eren
+
+**Attributes Used for Predictions:**
+
+ - Heating unit type
+ - AC (yes/no)
+ - Number of Rooms
+ - Number of Bedrooms
+ - AYB: The earliest time the main portion of the building was built
+ - EYB: The year an improvement was built more recent than actual year built
+ - Number of stories
+ - GBA: Gross building area in square feet
+ - Building style
+ - Structure type
+ - Real estate grade
+ - Current condition
+ - External wall type
+ - Roof type
+ - Internal wall type
+ - Number of kitchens
+ - Number of fireplaces
+ - Land area
+ - Zipcode
+ - Latitude
+ - Longitude
+ - Neighborhood
+ - Ward
+ - Quadrant
