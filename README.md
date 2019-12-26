@@ -17,6 +17,3 @@ Machine Learning Practice. Implimenting the project following the Chapter-2 proj
 **Possible Performance Measure:** Root Mean Square Error (RMSE), and Mean Absolute Error (MAE). <br>
 **Data:** [DC Residential Properties | Kaggle](https://www.kaggle.com/christophercorrea/dc-residential-properties)<br>
 **Project Author:** Maksim Ekin Eren
-
-## Take a Look at the Data
-First, lets load the data and gain some insight about it.
