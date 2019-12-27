@@ -22,6 +22,8 @@ Machine Learning Practice. Implimenting the project following the Chapter-2 proj
 **Data:** [DC Residential Properties | Kaggle](https://www.kaggle.com/christophercorrea/dc-residential-properties)<br>
 **Project Author:** Maksim Ekin Eren
 
+![](small_tree.png)
+
 **Attributes Used for Predictions:**
 
  - Heating unit type
@@ -48,3 +50,4 @@ Machine Learning Practice. Implimenting the project following the Chapter-2 proj
  - Neighborhood
  - Ward
  - Quadrant
+
